@@ -13,3 +13,6 @@ TBD
 
 [DOCUMENT_FROM_FILE]
 FILE: ../system_validations/sdoc/index.sdoc
+
+[DOCUMENT_FROM_FILE]
+FILE: ../system_requirements/sdoc/index.sdoc
