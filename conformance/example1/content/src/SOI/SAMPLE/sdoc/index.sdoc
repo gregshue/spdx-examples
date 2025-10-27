@@ -28,3 +28,6 @@ FILE: ../interface_requirements/sdoc/index.sdoc
 
 [DOCUMENT_FROM_FILE]
 FILE: ../system_element_requirements/sdoc/index.sdoc
+
+[DOCUMENT_FROM_FILE]
+FILE: ../system_element_verifications/sdoc/index.sdoc
