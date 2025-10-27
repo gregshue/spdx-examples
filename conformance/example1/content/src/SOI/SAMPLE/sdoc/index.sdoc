@@ -10,3 +10,6 @@ SPDX-License-Identifier: Apache-2.0
 STATEMENT: >>>
 TBD
 <<<
+
+[DOCUMENT_FROM_FILE]
+FILE: ../system_validations/sdoc/index.sdoc
