@@ -13,3 +13,6 @@ TBD
 
 [DOCUMENT_FROM_FILE]
 FILE: ../stakeholders/sdoc/index.sdoc
+
+[DOCUMENT_FROM_FILE]
+FILE: ../stakeholder_needs/sdoc/index.sdoc
