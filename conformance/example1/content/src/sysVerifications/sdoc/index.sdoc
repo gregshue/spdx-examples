@@ -1,12 +1,20 @@
 [DOCUMENT]
+MID: 48e1355c717642e2bca757865187eda6
 TITLE: System Verifications
+OPTIONS:
+  ENABLE_MID: True
+
+[GRAMMAR]
+IMPORT_FROM_FILE: system_verifications.sgra
 
 [TEXT]
+MID: 1aa664e9e0174cea9c59734ce2a23f2a
 STATEMENT: >>>
 SPDX-License-Identifier: Apache-2.0
 <<<
 
 [TEXT]
+MID: ddd4ee5dd24949c6813408d550a982b3
 STATEMENT: >>>
 From `SEBoK Wiki Glossary -  verification <https://sebokwiki.org/wiki/Verification_(glossary)>`_:
 
