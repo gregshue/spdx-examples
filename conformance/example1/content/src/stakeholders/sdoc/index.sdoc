@@ -1,12 +1,20 @@
 [DOCUMENT]
+MID: 90d096aedd3f4da2bad360c4a22baca9
 TITLE: Stakeholders
+OPTIONS:
+  ENABLE_MID: True
+
+[GRAMMAR]
+IMPORT_FROM_FILE: stakeholders.sgra
 
 [TEXT]
+MID: 35a45c0a0c5b44dab052f074184f1ac6
 STATEMENT: >>>
 SPDX-License-Identifier: Apache-2.0
 <<<
 
 [TEXT]
+MID: afff7b00985542258da8885cfbc9e452
 STATEMENT: >>>
 From `SEBoK Wiki Glossary - stakeholder <https://sebokwiki.org/wiki/Stakeholder_(glossary)>`_:
 
