@@ -32,6 +32,15 @@ MID: 0b181a28b6fe44aebdd68ec2659995ca
 TITLE: Manufacturer
 
 [STAKEHOLDER]
+MID: 5b534475caea4f2bb7929596bc1f0e25
+UID: STKHLDR-2
+STATUS: Draft
+TITLE: Project Manager
+DESCRIPTION: >>>
+Stakeholder overseeing the expenditure of resource to the project.
+<<<
+
+[STAKEHOLDER]
 MID: 16991861fedf4ea0bc24df024d1164b2
 UID: STKHLDR-1
 STATUS: Draft
