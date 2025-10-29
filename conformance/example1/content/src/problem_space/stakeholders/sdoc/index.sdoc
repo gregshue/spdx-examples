@@ -85,6 +85,19 @@ UID: STKHLDR-9
 TITLE: Operator/User
 
 [STAKEHOLDER]
+MID: 4ecf7ee284bc4962ad2799b4f42661e0
+UID: STKHLDR-12
+STATUS: Draft
+TITLE: Elderly
+DESCRIPTION: >>>
+This operator is characterized by:
+- living alone or in an assisted living facility,
+- not being a "digital native",
+- may be easily confused,
+- has dedicated computing technology.
+<<<
+
+[STAKEHOLDER]
 MID: 1038e506f4b84d9bb0da4b4594a065fe
 UID: STKHLDR-11
 STATUS: Draft
