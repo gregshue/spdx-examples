@@ -69,6 +69,14 @@ From `4+1 Architectural View Model <https://en.wikipedia.org/wiki/4%2B1_architec
 MID: 2fe14357b35b4f0aa9b184fdb1abe15c
 TITLE: Concurrency (Process) View
 
+[TEXT]
+MID: 5d6d15025b8d486a8aabf215fdf7e40b
+STATEMENT: >>>
+From `4+1 Architectural View Model <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>`_:
+
+  The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the run time behavior of the system. The process view addresses concurrency, distribution, integrator, performance, and scalability, etc. UML diagrams to represent process view include the sequence diagram, communication diagram, activity diagram. (Hui, LM; Leung, CW; Fan, CK; Wong, TN (2004). "Modelling agent-based systems with UML". Proceedings of the Fifth Asia Pacific Industrial Engineering and Management Systems Conference.), (Mikko Kontio (2008, July) Architectural manifesto: Designing software architectures, Part 5)
+<<<
+
 [[/SECTION]]
 
 [[SECTION]]
