@@ -97,4 +97,12 @@ From `4+1 Architectural View Model <https://en.wikipedia.org/wiki/4%2B1_architec
 MID: 29a05dd3c9504eb1a78b28a8e1cfc71d
 TITLE: Scenarios
 
+[TEXT]
+MID: 63b5a1579fa944dc8456deaf2e1d4405
+STATEMENT: >>>
+From `4+1 Architectural View Model <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>`_:
+
+  The description of an architecture is illustrated using a small set of use cases, or scenarios, which become a fifth view. The scenarios describe sequences of interactions between objects and between processes. They are used to identify architectural elements and to illustrate and validate the architecture design. They also serve as a starting point for tests of an architecture prototype. This view is also known as the use case view.
+<<<
+
 [[/SECTION]]
