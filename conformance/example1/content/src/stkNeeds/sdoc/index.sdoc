@@ -35,6 +35,19 @@ RATIONALE: >>>
 Engineering staff undergoes significant turnover during a product development and support lifetime. Following documented best practices minimizes the training overhead.
 <<<
 
+[NEED]
+UID: STKNEED-8
+STATUS: Draft
+SOURCE: Speculation
+PRIORITY: Must
+TITLE: Capture Architectural Decisions in Detail
+STATEMENT: >>>
+Engineering needs the decisions on the internal architecture of the product-as-a-system to be documented for reference.
+<<<
+RATIONALE: >>>
+Engineering staff undergoes significant turnover during a product development and support lifetime. Following documented best practices minimizes the training overhead.
+<<<
+
 [[/SECTION]]
 
 [[SECTION]]
