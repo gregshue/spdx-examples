@@ -89,6 +89,29 @@ RELATIONS:
 MID: daecd6708d35473a80ba113b3ffd2adb
 TITLE: Product Manager
 
+[NEED]
+MID: 88741883ae2d4a36b2bd025b1ece97cd
+UID: STKNEED-13
+STATUS: Draft
+SOURCE: Speculation
+PRIORITY: Must
+TITLE: Consumer Devices must operate in environment 0-40 degrees C, 20%-95% Relative Humidity
+STATEMENT: >>>
+Product Manager needs the commodity consumer electronics devices to operate at full functionality within the following environment:
+
+- Minimum Temperature: 0 degrees C (32 degrees F)
+- Maximum Temperature: 40 degrees C (104 degrees F)
+- Minimum Relative Humidity: 20%
+- Maximum Relative Humidity: 95%
+<<<
+RATIONALE: >>>
+TBD
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKHLDR-22
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
