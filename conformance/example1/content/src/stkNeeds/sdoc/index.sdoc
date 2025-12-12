@@ -254,6 +254,20 @@ RATIONALE: >>>
 Engineering Students need to set up a private network with controllable traffic and available bandwidth in order to control their experiments and develop functionality in an isolated environment.
 <<<
 
+[NEED]
+MID: 16c5ec88e73e4f1c99d07396da8c562c
+UID: STKNEED-17
+STATUS: Draft
+SOURCE: Observation
+PRIORITY: Must
+TITLE: Option to not automatically apply security updates
+STATEMENT: >>>
+Engineering Student needs products to have an option to disable automatically applying security updates for a specific duration.
+<<<
+RATIONALE: >>>
+Engineering Students need predictability and repeatability in their test environments. Automatically applying security updates disrupts the test environment and may invalidate prior test results.
+<<<
+
 [[/SECTION]]
 
 [[SECTION]]
