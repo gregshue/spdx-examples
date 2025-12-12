@@ -183,6 +183,23 @@ RELATIONS:
 MID: 9d7d78b170a545c586697a6bd8448b47
 TITLE: Product Manager
 
+[REQUIREMENT]
+MID: b70146dfcdec40bead9bb6815dbfdd41
+UID: STKREQ-61
+STATUS: Draft
+VERIFICATION: Review
+TITLE: Product Line Internal Named SAMPLE
+STATEMENT: >>>
+The ProductLine-as-a-System shall be internally named SAMPLE.
+<<<
+RATIONALE: >>>
+This name reflects both the purpose of the product line. The name is easily recognized and pronounced by non-native English speakers.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-11
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
