@@ -210,6 +210,24 @@ RELATIONS:
   VALUE: STKHLDR-12
   ROLE: Refines
 
+[NEED]
+MID: 04f170e1f72943e396a2219d1d7f496d
+UID: STKNEED-16
+STATUS: Draft
+SOURCE: Speculation
+PRIORITY: Must
+TITLE: Consumer devices automatically apply security updates
+STATEMENT: >>>
+Elderly need consumer devices to automatically apply security updates.
+<<<
+RATIONALE: >>>
+Elderly may not be sensitive to security risks.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKHLDR-12
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
