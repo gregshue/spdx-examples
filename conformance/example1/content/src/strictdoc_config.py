@@ -54,6 +54,7 @@ def create_config() -> ProjectConfig:
             "@sample_interface_requirements_grammar": "shared/sdoc/grammars/sample_interface_requirements.sgra",
             "@sample_system_element_requirements_grammar": "shared/sdoc/grammars/sample_system_element_requirements.sgra",
             "@sample_system_element_verifications_grammar": "shared/sdoc/grammars/sample_system_element_verifications.sgra",
+            "@sample_interface_specifications_grammar": "shared/sdoc/grammars/sample_interface_specifications.sgra",
         },
 
         # test_report_root_dict={
