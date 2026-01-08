@@ -51,6 +51,7 @@ def create_config() -> ProjectConfig:
             "@sample_system_validations_grammar": "shared/sdoc/grammars/sample_system_validations.sgra",
             "@sample_system_verifications_grammar": "shared/sdoc/grammars/sample_system_verifications.sgra",
             "@sample_system_architectures_grammar": "shared/sdoc/grammars/sample_system_architectures.sgra",
+            "@sample_interface_requirements_grammar": "shared/sdoc/grammars/sample_interface_requirements.sgra",
         },
 
         # test_report_root_dict={
