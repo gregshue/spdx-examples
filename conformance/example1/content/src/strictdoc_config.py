@@ -49,6 +49,7 @@ def create_config() -> ProjectConfig:
             "@sample_stakeholder_requirements_grammar": "shared/sdoc/grammars/sample_stakeholder_requirements.sgra",
             "@sample_system_requirements_grammar": "shared/sdoc/grammars/sample_system_requirements.sgra",
             "@sample_system_validations_grammar": "shared/sdoc/grammars/sample_system_validations.sgra",
+            "@sample_system_verifications_grammar": "shared/sdoc/grammars/sample_system_verifications.sgra",
         },
 
         # test_report_root_dict={
