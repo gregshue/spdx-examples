@@ -44,6 +44,15 @@ STATUS: Draft
 TITLE: Marketing
 
 [STAKEHOLDER]
+MID: c685c4f17ef34084b84f7efc939b5d73
+UID: STKHLDR-22
+STATUS: Draft
+TITLE: Product Manager
+DESCRIPTION: >>>
+Business stakeholder overseeing the development, markets, and sales of products to customers.
+<<<
+
+[STAKEHOLDER]
 MID: a4e0ced45eb64212a1f2cad36017a395
 UID: STKHLDR-5
 STATUS: Draft
