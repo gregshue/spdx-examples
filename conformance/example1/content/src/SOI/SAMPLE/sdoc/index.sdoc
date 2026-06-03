@@ -146,6 +146,13 @@ SAMPLE requirements and designs.
 [[SECTION]]
 TITLE: Product List
 
+[TEXT]
+STATEMENT: >>>
+The following are nominal descriptions of the products in SAMPLE:
+
+- SAMPLE Product 1: a USB-C to 100Base-T Network Interface Dongle
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
