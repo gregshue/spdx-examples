@@ -8,7 +8,7 @@ SPDX-License-Identifier: Apache-2.0
 
 [TEXT]
 STATEMENT: >>>
-The System-of-Interest named SAMPLE is the top-level system in this example. 
+The System-of-Interest named SAMPLE is the top-level system in this example.
 
 It is expected to be composed of the following subsystems:
 
@@ -34,6 +34,18 @@ It is expected to be composed of the following subsystems:
 
 [[SECTION]]
 TITLE: Conceptual Overview
+
+[TEXT]
+STATEMENT: >>>
+SAMPLE is a Product Line of commodity consumer electronics devices intended for
+markets requiring conformance with the EU Cyber Resilience Act. The range of
+devices supported by this Product Line is expected to expand over time as
+more product types become commoditized.
+
+SAMPLE is expected to be **reused and extended** by
+interested Open-Source Software Projects and Component Manufacturers for
+developing assets conformant with the EU CRA.
+<<<
 
 [[/SECTION]]
 
