@@ -9,27 +9,6 @@ SPDX-License-Identifier: Apache-2.0
 [TEXT]
 STATEMENT: >>>
 The System-of-Interest named SAMPLE is the top-level system in this example.
-
-It is expected to be composed of the following subsystems:
-
-.. raw:: html
-
-    <pre class="mermaid">
-    ---
-    title: Topology of Systems-of-Interest
-    ---
-    stateDiagram-v2
-
-        state SAMPLE {
-            TBD_Security_Vulnerability_Reporting: TBD <br/> Security <br/> Vulnerability <br/> Reporting <br/> Server
-            TBD_Desktop_SW: TBD <br/> Desktop SW
-            TBD_Mobile_SW: TBD <br/> Mobile SW
-            TBD_Devices: TBD <br/> Device(s)
-            TBD_Cloud_SW: TBD <br/> Cloud SW
-            TBD_Digital_Component_Update_Server: TBD <br/> Digital <br/> Component <br/> Update <br/> Server
-        }
-
-    </pre>
 <<<
 
 [[SECTION]]
@@ -68,6 +47,38 @@ artifacts for SAMPLE.
 
 [[SECTION]]
 TITLE: Product Line Solution Domain (Scope)
+
+[TEXT]
+STATEMENT: >>>
+SAMPLE is designed upon the following generic solution framework for products:
+
+.. raw:: html
+
+    <pre class="mermaid">
+    ---
+    title: Generic Product Solution Framework
+    ---
+    stateDiagram-v2
+	state "Cloud-based Services" as MfgCloudSvcs {
+	    direction LR
+	    state "Product Support" as PrdSupport {
+		direction LR
+		state "Documentation <br/>(per Product)" as PrdDocs
+	    }
+	}
+
+	state "Applications" as MgrApps {
+	    direction LR
+	    state "Desktop Applications" as MfgDesktopApps
+	    state "Mobile Apps" as MfgMobileApps
+	}
+
+	state "Devices" as Devices {
+	    direction LR
+            state "Manufacturer Parts" as MfgParts
+        }
+    </pre>
+<<<
 
 [[/SECTION]]
 
