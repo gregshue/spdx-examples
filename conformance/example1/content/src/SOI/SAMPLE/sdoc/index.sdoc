@@ -50,6 +50,20 @@ developing assets conformant with the EU CRA.
 [[SECTION]]
 TITLE: Product Line Problem Domain
 
+[TEXT]
+STATEMENT: >>>
+SAMPLE is intended to support at least
+commodity consumer electronics devices. These products may end
+up being used in commercial and/or civil deployments.
+These products are NOT expected to be used in industrial or
+safety-critical deployments.
+
+To support growth of the Product Line Solution Domain (solution space)
+with minimal impact on existing assets, the Product Line Problem Domain
+will be the context for evaluating and understanding all System Engineering
+artifacts for SAMPLE.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
