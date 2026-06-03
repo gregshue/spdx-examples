@@ -83,6 +83,64 @@ SAMPLE is designed upon the following generic solution framework for products:
 [[SECTION]]
 TITLE: Feature List
 
+[TEXT]
+STATEMENT: >>>
+As a Product Lines evolves the sponsors of the Product Line may require it
+to support a larger solution domain than previously chosen. A best practice
+for Product Line Engineering is to evaluate architectures and designs for
+reusability in reasonably foreseeable scope growth.
+
+The following Feature List outlines the breadth of product categories
+and functionalities to be considered when describing and evaluating
+SAMPLE requirements and designs.
+
+.. note::
+   Bold text indicates **invariant feature/value** across Product Line scope.
+
+   Italic text indicates *anticipated expansion* of Product Line scope.
+
+- User Interface
+
+  - Label(s)
+  - Device Status LED(s)
+  - Button(s)
+  - *Network Activity Indication(s)*
+  - *User Authentication via Finger Print*
+
+- Communication Interfaces
+
+  - USB Device
+
+    - Physical Connector
+
+      - *USB A Male*
+      - USB C Male connector
+
+  - Network Interface
+
+    - 100BASE-TX
+    - *10BASE-T1L*
+    - *802.15.4*
+    - *BlueTooth*
+    - *WIFI*
+
+- Functionality
+
+  - Secure Boot
+  - Firmware Update
+
+    - On-demand FW Update (pushed to Device)
+    - *Automated FW Update (pulled by Device)*
+    - *FW Update schedule control <br/>(periods of blocked vs listening vs requesting)*
+
+  - Network Interface
+  - *Network Sniffer*
+  - *Network Router*
+  - *Network Gateway*
+  - *Network-Attached Storage (NAS)*
+  - *BlueTooth Beacon*
+<<<
+
 [[/SECTION]]
 
 [[SECTION]]
