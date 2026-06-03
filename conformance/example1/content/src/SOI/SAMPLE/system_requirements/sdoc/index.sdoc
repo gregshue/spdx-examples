@@ -22,3 +22,39 @@ From `SEBoK Wiki Glossary - system requirement <https://sebokwiki.org/wiki/Syste
 
 - The System Requirement Definition process creates a set of measurable system requirements that specify, from the supplier’s perspective, what characteristics, attributes, and functional and performance requirements the system is to possess, in order to satisfy stakeholder requirements. (ISO/IEC/IEEE, 2015, section 6.4.2)
 <<<
+
+[TEXT]
+MID: 9876cbae93e44e5aa8501e1990e9c20c
+STATEMENT: >>>
+From `SEBoK Wiki System Requirements Definition - Cateorizing Requirements <https://sebokwiki.org/wiki/System_Requirements_Definition#Categorizing_Requirements>`_ Table 1: Example Types of Requirement Categories. (Derived from the INCOSE Needs and Requirements Manual):
+
+  **Function/Performance**:
+  The primary functions and associated performance that the SoI needs to perform in terms of its intended use.
+  The functions address the capabilities and features the stakeholders expect the SoI to have;
+  performance addresses how well, how many, how fast attributes of the function.
+  Many of the primary functions involve interactions (interfaces) between the SOI and systems external to the SOI.
+  All critical and high priority needs would be included in this category.
+
+  **Fit/Operational**:
+  Requirements dealing with functions that deal with a secondary or enabling capabilities, functions, and interactions
+  between the SoI and external systems needed for the system to accomplish its primary functions.
+  This includes functions concerning the ability of the system to interface with, interact with,
+  connect to, operate within, and become an integral part of the macro system it is a part.
+  Fit includes human system interactions and interfaces as well as both the induced and natural environments
+  (conditions of operations, transportation, storage, maintenance).
+  For example, needs associated with safety, security, power, cooling, transportation and handling,
+  storage, maintenance, and disposal.
+
+  **Form**:
+  Physical Characteristics.
+  The shape, size, dimensions, mass, weight, and other observable parameters and characterizes that uniquely distinguish a system.
+  For software, form could address programming language, lines of code, memory requirements.
+
+  **Quality**:
+  Fitness for use.
+  For example, various “-ilities” such as reliability, testability, operability, availability,
+  maintainability, operability, supportability, manufacturability, and interoperability.
+
+  **Compliance**:
+  Conformance with design and construction standards and regulations.
+<<<
