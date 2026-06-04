@@ -100,6 +100,23 @@ RELATIONS:
   VALUE: STKNEED-15
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 984dc2d685b04d5396885c34e73bf3f8
+UID: SYSREQ-3
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE Product 1: Market name
+STATEMENT: >>>
+Where SAMPLE Product 1 is referenced in a public-facing context,
+SAMPLE shall use the following values for product identification:
+
+- Manufacturer: EXAMPLE
+- Model: EXAMPLE USB Ethernet Dongle 100-C
+<<<
+RATIONALE: >>>
+Specified by Product Manager.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
