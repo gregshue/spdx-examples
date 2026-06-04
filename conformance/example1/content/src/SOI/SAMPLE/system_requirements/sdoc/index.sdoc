@@ -71,6 +71,35 @@ TITLE: Network Interfaces
 MID: a5631d22043e47a0bb411ffdde05b1f2
 TITLE: SAMPLE Product 1: USB-C 100Base-T Network Interface Dongle
 
+[REQUIREMENT]
+MID: 60743133bcc54686af56b015adf6983b
+UID: SYSREQ-2
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE Product 1: Feature List
+STATEMENT: >>>
+SAMPLE shall expose a product with the following features:
+
+- Internal name: SAMPLE Product 1
+- Product Type: USB Network Interface Dongle
+- Communication Interfaces: USB-C (male), Ethernet 100Base-T (RJ-45 socket)
+- User Interface:
+  - Status LED(s)
+  - physical Command Button(s)
+- Product label, showing:
+  - Manufacturer Name (clear text)
+  - Product Model (clear text)
+  - Product Serial Number
+  - Date of Manufacture (clear text)
+<<<
+RATIONALE: >>>
+Approved by Business Sponsor.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-15
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
