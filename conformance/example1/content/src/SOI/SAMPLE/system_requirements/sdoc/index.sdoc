@@ -96,6 +96,23 @@ TITLE: Compliance Requirements
 MID: da48546cc8f042048ad11f86516be826
 TITLE: EU Cyber Resilience Act (CRA)
 
+[REQUIREMENT]
+MID: ed23e2e6e8254eb59c4508f69f84e226
+UID: SYSREQ-1
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE conforms with EU CRA
+STATEMENT: >>>
+SAMPLE shall be in conformance with the EU Cyber Resilience Act.
+<<<
+RATIONALE: >>>
+Initial SAMPLE products must be marketable in the EU. This impacts the entire product development process, therefore the entire SAMPLE should be developed conformant
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-1
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
