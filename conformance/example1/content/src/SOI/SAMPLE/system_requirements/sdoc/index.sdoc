@@ -115,6 +115,24 @@ Specified by Product Manager.
 <<<
 
 [REQUIREMENT]
+MID: 518b336e898843d3b72e4a8afaf72c53
+UID: SYSREQ-5
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE Product 1: Operating Environment
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed,
+SAMPLE shall operate SAMPLE Product 1 at full functionality within the SAMPLE Commercial Office Environment Limits.
+<<<
+RATIONALE: >>>
+Required by Product Manager.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-13
+  ROLE: Refines
+
+[REQUIREMENT]
 MID: 984dc2d685b04d5396885c34e73bf3f8
 UID: SYSREQ-3
 STATUS: Draft
