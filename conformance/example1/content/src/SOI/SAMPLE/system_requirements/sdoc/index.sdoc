@@ -167,6 +167,25 @@ TITLE: Network Interfaces
 MID: b3f779d7a30441088b4c319c5d731aad
 TITLE: USB Network Interface Dongles
 
+[REQUIREMENT]
+MID: 501d870a2f9e438fafcd9d68b8d10a10
+UID: SYSREQ-7
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE USB Network Interface Dongle Dimension Limits
+STATEMENT: >>>
+Where a SAMPLE Product is specified to meet the SAMPLE USB Network Interface Dongle Dimension Limits,
+SAMPLE shall limit said SAMPLE Product dimensions to the following (including all cables stretched to maximum length):
+
+- length: <= 30 cm.
+- width: <= 10 cm.
+- height <= 5 cm.
+- weight <= 500 g.
+<<<
+RATIONALE: >>>
+This is expected to be large enough to allow SOC Hardware Manufacturers to build this product using one of their SOC evaluation kits.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
