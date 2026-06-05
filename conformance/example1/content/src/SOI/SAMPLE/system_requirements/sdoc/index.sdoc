@@ -202,6 +202,25 @@ TITLE: Function/Performance Requirements
 MID: 37e5c597ed264cb2947fa545ce55f16a
 TITLE: Fit/Operational Requirements
 
+[REQUIREMENT]
+MID: a8144501d3724c6cbc69efe6fdd1d6cc
+UID: SYSREQ-6
+STATUS: Draft
+VERIFICATION: Review
+TITLE: SAMPLE Commercial Office Env Limits
+STATEMENT: >>>
+Where a SAMPLE Product is specified to operate in a SAMPLE Commercial Office Environment,
+SAMPLE shall operate said SAMPLE Product at full functionality within the following environment:
+
+- Minimum Temperature: 0 degrees C (32 degrees F)
+- Maximum Temperature: 40 degrees C (104 degrees F)
+- Minimum Relative Humidity: 20%
+- Maximum Relative Humidity: 95%
+<<<
+RATIONALE: >>>
+Required by Product Manager.
+<<<
+
 [[/SECTION]]
 
 [[SECTION]]
