@@ -518,6 +518,27 @@ RELATIONS:
   VALUE: STKREQ-20
   ROLE: Refines
 
+[REQUIREMENT]
+MID: f19fc90733b9461da8f867664f0f1bf9
+UID: SYSREQ-27
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part II (4)(b)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where Manufacturers of said product consider the security risks of publication to outweigh the security benefits,
+
+SAMPLE shall duly justify for this case any delay in making public information regarding a fixed vulnerability until after users have been given the possibility to apply the relevant patch.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-21
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
