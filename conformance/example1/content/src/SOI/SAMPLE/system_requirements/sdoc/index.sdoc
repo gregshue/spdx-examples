@@ -877,6 +877,25 @@ RELATIONS:
   VALUE: STKREQ-38
   ROLE: Refines
 
+[REQUIREMENT]
+MID: a3880db5c00b4cd28fd01ebb1a6b0b12
+UID: SYSREQ-45
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (8)(a)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the necessary measures during initial commissioning and throughout the lifetime of the product with digital elements to ensure its secure use.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-39
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
