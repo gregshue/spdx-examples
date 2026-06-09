@@ -1183,6 +1183,27 @@ RELATIONS:
   VALUE: STKREQ-51
   ROLE: Refines
 
+[REQUIREMENT]
+MID: ddb5c0e0021d4c69b4501542ea3cdb28
+UID: SYSREQ-58
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex VII (7)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
+
+SAMPLE shall expose said product accompanied by technical documentation containing a copy of the EU declaration of conformity.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-52
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
