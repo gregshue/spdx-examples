@@ -182,6 +182,27 @@ RELATIONS:
   VALUE: STKREQ-4
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 9379059ed06047f28580bbda86deedd0
+UID: SYSREQ-11
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part I (2c)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+On the basis of the cybersecurity risk assessment referred to in Article 13(2) and where applicable,
+
+SAMPLE shall ensure that vulnerabilities of said product can be addressed through security updates, including, where applicable, through automatic security updates that are installed within an appropriate timeframe enabled as a default setting, with a clear and easy-to-use opt-out mechanism, through the notification of available updates to users, and the option to temporarily postpone them.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-5
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
