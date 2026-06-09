@@ -996,6 +996,27 @@ RELATIONS:
   VALUE: STKREQ-44
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 72d69823809a412eb98a15aba88ef601
+UID: SYSREQ-51
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (9)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where the manufacturer of the product with digital elements decides to make available the software bill of materials to the user,
+
+SAMPLE shall expose said product accompanied by information on where the software bill of materials can be accessed.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-45
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
