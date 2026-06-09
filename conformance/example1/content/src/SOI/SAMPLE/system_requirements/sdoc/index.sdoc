@@ -161,6 +161,27 @@ RELATIONS:
   VALUE: STKREQ-3
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 04c4521915eb4d359f5d21bf60905897
+UID: SYSREQ-10
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part I (2b)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+On the basis of the cybersecurity risk assessment referred to in EU CRA Article 13(2) and where applicable,
+
+SAMPLE shall make available said product with a secure by default configuration, unless otherwise agreed between manufacturer and business user in relation to a tailor-made product with digital elements, including the possibility to reset the product to its original state.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-4
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
