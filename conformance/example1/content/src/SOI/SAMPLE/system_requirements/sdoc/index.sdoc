@@ -121,6 +121,25 @@ TITLE: EU CRA Annex I - Essential Cybersecurity Requirements
 MID: 0db4652dc8eb4d36bdf25f87b69b2a4a
 TITLE: Part I Cybersecurity requirements relating to the properties of products with digital elements
 
+[REQUIREMENT]
+MID: 024fc370f3e84eceb0d9c7d0f13b0bdd
+UID: SYSREQ-8
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part I (1)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall design, develop, and produce said product in such a way that it ensures an appropriate level of cybersecurity based on risks.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-2
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
