@@ -972,6 +972,30 @@ RELATIONS:
   VALUE: STKREQ-43
   ROLE: Refines
 
+[REQUIREMENT]
+MID: ac13e5e0bea242728e96379c4229b50f
+UID: SYSREQ-50
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (8)(f)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where said product is intended for integration into other products with digital elements,
+
+SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the information necessary for the integrator to comply with:
+
+- the essential cybersecurity requirements set out in Annex I,
+- the documentation requirements set out in Annex VII.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-44
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
