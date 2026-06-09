@@ -953,6 +953,25 @@ RELATIONS:
   VALUE: STKREQ-42
   ROLE: Refines
 
+[REQUIREMENT]
+MID: f9e627c6734941b5bf2f0c05e26dfdfa
+UID: SYSREQ-49
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (8)(e)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how the default setting enabling the automatic installation of security updates can be turned off.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-43
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
