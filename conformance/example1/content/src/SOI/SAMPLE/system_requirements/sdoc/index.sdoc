@@ -419,6 +419,25 @@ RELATIONS:
 MID: da470fd368d640f7b4662ae9a53fff57
 TITLE: Part II Vulnerability handling requirements
 
+[REQUIREMENT]
+MID: 344696ab9db54f3a9b55be2d98e69c5c
+UID: SYSREQ-22
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part II (1)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall identify and document vulnerabilities and components contained in said product, including by drawing up a software bill of materials in a commonly used and machine-readable format covering at the very least the top-level dependencies of the product.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-16
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
