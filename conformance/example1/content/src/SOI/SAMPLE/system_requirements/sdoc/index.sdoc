@@ -1023,6 +1023,35 @@ RELATIONS:
 MID: 45bfb6ee6be540b29d7670cb85b26485
 TITLE: EU CRA Annex VII - Content of the Technical Documentation
 
+[REQUIREMENT]
+MID: 21a7a8d02f7c44c09bb4b4ffe892c632
+UID: SYSREQ-52
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex VII (1)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
+
+SAMPLE shall expose said product accompanied by technical documentation containing a general description of said product, including:
+
+- the intended purpose of said product;
+- versions of software affecting compliance with essential cybersecurity requirements;
+- where the product with digital elements is a hardware product
+
+  - photographs or illustrations showing external features, marking and internal layout;
+
+- user information and instructions as set out in EU CRA Annex II.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-46
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
