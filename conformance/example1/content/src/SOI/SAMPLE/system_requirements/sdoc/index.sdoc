@@ -462,7 +462,7 @@ MID: a369011ad4814a3bbcc44644a1b07b89
 UID: SYSREQ-24
 STATUS: Draft
 VERIFICATION: Test
-TITLE: SAMPLE complies with EU CRA Annex I Part II (2)(b)
+TITLE: 6.1.2.2.2. SAMPLE complies with EU CRA Annex I Part II (2)(b)
 STATEMENT: >>>
 Where a SAMPLE product with digital elements is exposed to the EU marketplace,
 
@@ -622,6 +622,25 @@ RELATIONS:
 [[SECTION]]
 MID: 8cfb56fdeb62410997700ba4f36c71d6
 TITLE: EU CRA Annex II - Information and Instructions to the User
+
+[REQUIREMENT]
+MID: 3e894e64a9454a7ea214e5a0cca561eb
+UID: SYSREQ-32
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (1)(a)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall expose said product accompanied by the name, registered trade name or registered trademark of the manufacturer.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-26
+  ROLE: Refines
 
 [[/SECTION]]
 
