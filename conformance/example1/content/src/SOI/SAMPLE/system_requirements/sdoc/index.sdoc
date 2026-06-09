@@ -855,6 +855,28 @@ RELATIONS:
   VALUE: STKREQ-37
   ROLE: Refines
 
+[REQUIREMENT]
+MID: ef718eade30140e7801c992c9ba5e5da
+UID: SYSREQ-44
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (7)(b)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall expose said product accompanied by the end-date of the support period during which users can expect:
+
+- vulnerabilities to be handled,
+- to receive security updates.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-38
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
