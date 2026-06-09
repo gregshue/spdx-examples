@@ -779,6 +779,25 @@ RELATIONS:
   VALUE: STKREQ-33
   ROLE: Refines
 
+[REQUIREMENT]
+MID: d7e6c7e539f3446cbccb5f820f6a05d8
+UID: SYSREQ-40
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex II (5)(a)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall expose said product accompanied by any known or foreseeable circumstance, related to the use of the product with digital elements in accordance with its intended purpose, which may lead to significant cybersecurity risks.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-34
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
