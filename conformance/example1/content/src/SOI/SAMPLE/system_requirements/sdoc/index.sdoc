@@ -1052,6 +1052,41 @@ RELATIONS:
   VALUE: STKREQ-46
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 8faf538ede0547ba8204f50d1a77d73b
+UID: SYSREQ-53
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex VII (2)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
+
+SAMPLE shall expose said product accompanied by technical documentation containing a description of the design, development and production of the product with digital elements and vulnerability handling processes, including:
+
+- necessary information on the design and development of said product, including, where applicable,
+
+  - drawings and schemes and
+  - a description of the system architecture explaining how software components build on or feed into each other and integrate into the overall processing;
+
+- necessary information and specifications of the vulnerability handling processes put in place by the manufacturer, including
+
+  - the software bill of materials,
+  - the coordinated vulnerability disclosure policy,
+  - evidence of the provision of a contact address for the reporting of the vulnerabilities and
+  - a description of the technical solutions chosen for the secure distribution of updates;
+
+- necessary information and specifications of the production and monitoring processes of said product and the validation of those processes;
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-47
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
