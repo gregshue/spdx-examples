@@ -539,6 +539,25 @@ RELATIONS:
   VALUE: STKREQ-21
   ROLE: Refines
 
+[REQUIREMENT]
+MID: aa777f856bd047b8b03c81a8565ad280
+UID: SYSREQ-28
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE complies with EU CRA Annex I Part II (5)
+STATEMENT: >>>
+Where a SAMPLE product with digital elements is exposed to the EU marketplace,
+
+SAMPLE shall have fin place and enforce a policy on coordinated vulnerability disclosure.
+<<<
+RATIONALE: >>>
+This only is required of products exposed to the EU marketplace.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKREQ-22
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
