@@ -78,7 +78,7 @@ STATUS: Draft
 VERIFICATION: Review
 TITLE: SAMPLE Product 1: Feature List
 STATEMENT: >>>
-SAMPLE shall expose a product with the following features:
+SAMPLE shall expose to market(s) a product with the following features:
 
 - Internal name: SAMPLE Product 1
 - Product Type: USB Network Interface Dongle
@@ -481,7 +481,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 On the basis of the cybersecurity risk assessment referred to in EU CRA Article 13(2) and where applicable,
 
-SAMPLE shall expose said product that is designed, developed and produced to limit attack surfaces, including external interfaces.
+SAMPLE shall expose to market(s) said product that is designed, developed and produced to limit attack surfaces, including external interfaces.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -502,7 +502,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 On the basis of the cybersecurity risk assessment referred to in EU CRA Article 13(2) and where applicable,
 
-SAMPLE shall expose said product that is designed, developed and produced to reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques.
+SAMPLE shall expose to market(s) said product that is designed, developed and produced to reduce the impact of an incident using appropriate exploitation mitigation mechanisms and techniques.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -523,7 +523,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 On the basis of the cybersecurity risk assessment referred to in EU CRA Article 13(2) and where applicable,
 
-SAMPLE shall expose said product that provides security related information by recording and monitoring relevant internal activity, including the access to or modification of data, services or functions, with an opt-out mechanism for the user.
+SAMPLE shall expose to market(s) said product that provides security related information by recording and monitoring relevant internal activity, including the access to or modification of data, services or functions, with an opt-out mechanism for the user.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -544,7 +544,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 On the basis of the cybersecurity risk assessment referred to in EU CRA Article 13(2) and where applicable,
 
-SAMPLE shall expose said product that provides the possibility for users to securely and easily remove on a permanent basis all data and settings and, where such data can be transferred to other products or systems, ensure that this is done in a secure manner.
+SAMPLE shall expose to market(s) said product that provides the possibility for users to securely and easily remove on a permanent basis all data and settings and, where such data can be transferred to other products or systems, ensure that this is done in a secure manner.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -773,7 +773,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (1)(a)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the name, registered trade name or registered trademark of the manufacturer.
+SAMPLE shall expose to market(s) said product accompanied by the name, registered trade name or registered trademark of the manufacturer.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -792,7 +792,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (1)(b)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the postal address at which the manufacturer can be contacted.
+SAMPLE shall expose to market(s) said product accompanied by the postal address at which the manufacturer can be contacted.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -811,7 +811,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (1)(c)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the email address or other digital contact at which the manufacturer can be contacted.
+SAMPLE shall expose to market(s) said product accompanied by the email address or other digital contact at which the manufacturer can be contacted.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -830,7 +830,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (1)(d)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by, where available, the website at which the manufacturer can be contacted.
+SAMPLE shall expose to market(s) said product accompanied by, where available, the website at which the manufacturer can be contacted.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -849,7 +849,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (2)(a)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the single point of contact where information about vulnerabilities of the SAMPLE product can be reported and received.
+SAMPLE shall expose to market(s) said product accompanied by the single point of contact where information about vulnerabilities of the SAMPLE product can be reported and received.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -868,7 +868,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (2)(b)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by where the manufacturer’s policy on coordinated vulnerability disclosure can be found.
+SAMPLE shall expose to market(s) said product accompanied by where the manufacturer’s policy on coordinated vulnerability disclosure can be found.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -887,7 +887,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (3)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by name and type and any additional information enabling the unique identification of said product.
+SAMPLE shall expose to market(s) said product accompanied by name and type and any additional information enabling the unique identification of said product.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -906,7 +906,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (4)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the intended purpose of said product, including:
+SAMPLE shall expose to market(s) said product accompanied by the intended purpose of said product, including:
 
 - the security environment provided by the manufacturer,
 - the product’s essential functionalities,
@@ -929,7 +929,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (5)(a)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by any known or foreseeable circumstance, related to the use of the SAMPLE product in accordance with its intended purpose, which may lead to significant cybersecurity risks.
+SAMPLE shall expose to market(s) said product accompanied by any known or foreseeable circumstance, related to the use of the SAMPLE product in accordance with its intended purpose, which may lead to significant cybersecurity risks.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -948,7 +948,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (5)(b)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by any known or foreseeable circumstance, related to the use of the SAMPLE product under conditions of reasonably foreseeable misuse, which may lead to significant cybersecurity risks.
+SAMPLE shall expose to market(s) said product accompanied by any known or foreseeable circumstance, related to the use of the SAMPLE product under conditions of reasonably foreseeable misuse, which may lead to significant cybersecurity risks.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -967,7 +967,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (6)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by where applicable, the internet address at which the EU declaration of conformity can be accessed.
+SAMPLE shall expose to market(s) said product accompanied by where applicable, the internet address at which the EU declaration of conformity can be accessed.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -986,7 +986,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (7)(a)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the type of technical security support offered by the manufacturer.
+SAMPLE shall expose to market(s) said product accompanied by the type of technical security support offered by the manufacturer.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1005,7 +1005,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (7)(b)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by the end-date of the support period during which users can expect:
+SAMPLE shall expose to market(s) said product accompanied by the end-date of the support period during which users can expect:
 
 - vulnerabilities to be handled,
 - to receive security updates.
@@ -1027,7 +1027,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (8)(a)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the necessary measures during initial commissioning and throughout the lifetime of the SAMPLE product to ensure its secure use.
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the necessary measures during initial commissioning and throughout the lifetime of the SAMPLE product to ensure its secure use.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1046,7 +1046,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (8)(b)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how changes to said product can affect the security of data.
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how changes to said product can affect the security of data.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1065,7 +1065,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (8)(c)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how security-relevant updates can be installed for said product.
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how security-relevant updates can be installed for said product.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1084,7 +1084,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (8)(d)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the secure decommissioning of said product, including information on how user data can be securely removed.
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the secure decommissioning of said product, including information on how user data can be securely removed.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1103,7 +1103,7 @@ TITLE: SAMPLE complies with EU CRA Annex II (8)(e)
 STATEMENT: >>>
 Where a SAMPLE product is exposed to the EU marketplace,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how the default setting enabling the automatic installation of security updates can be turned off.
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on how the default setting enabling the automatic installation of security updates can be turned off.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1124,7 +1124,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where said product is intended for integration into other products with digital elements,
 
-SAMPLE shall expose said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the information necessary for the integrator to comply with:
+SAMPLE shall expose to market(s) said product accompanied by detailed instructions or an internet address referring to such detailed instructions and information on the information necessary for the integrator to comply with:
 
 - the essential cybersecurity requirements set out in Annex I,
 - the documentation requirements set out in Annex VII.
@@ -1148,7 +1148,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the manufacturer of said product decides to make available the software bill of materials to the user,
 
-SAMPLE shall expose said product accompanied by information on where the software bill of materials can be accessed.
+SAMPLE shall expose to market(s) said product accompanied by information on where the software bill of materials can be accessed.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1175,7 +1175,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing a general description of said product, including:
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing a general description of said product, including:
 
 - the intended purpose of said product;
 - versions of software affecting compliance with essential cybersecurity requirements;
@@ -1204,7 +1204,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing a description of the design, development and production of said product and vulnerability handling processes, including:
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing a description of the design, development and production of said product and vulnerability handling processes, including:
 
 - necessary information on the design and development of said product, including, where applicable,
 
@@ -1239,7 +1239,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing an assessment of the cybersecurity risks against which said product is designed, developed, produced, delivered and maintained pursuant to EU CRA Article 13, including how the essential cybersecurity requirements set out in Part I of Annex I are applicable;
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing an assessment of the cybersecurity risks against which said product is designed, developed, produced, delivered and maintained pursuant to EU CRA Article 13, including how the essential cybersecurity requirements set out in Part I of Annex I are applicable;
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1260,7 +1260,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing relevant information that was taken into account to determine the support period pursuant to EU CRA Article 13(8) of said product.
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing relevant information that was taken into account to determine the support period pursuant to EU CRA Article 13(8) of said product.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1281,7 +1281,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing:
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing:
 
 - a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, common specifications as set out in Article 27 of this Regulation or European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 pursuant to Article 27(8) of this Regulation;
 
@@ -1310,7 +1310,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing:
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing:
 
 - reports of the tests carried out to verify the conformity of said product,
 
@@ -1335,7 +1335,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing a copy of the EU declaration of conformity.
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing a copy of the EU declaration of conformity.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
@@ -1356,7 +1356,7 @@ Where a SAMPLE product is exposed to the EU marketplace,
 
 Where the technical documentation referred to in EU CRA Article 31 shall be provided for said product,
 
-SAMPLE shall expose said product accompanied by technical documentation containing (where applicable to said product) the software bill of materials, further to a reasoned request from a market surveillance authority provided that it is necessary in order for that authority to be able to check compliance with the essential cybersecurity requirements set out in EU CRA Annex I.
+SAMPLE shall expose to market(s) said product accompanied by technical documentation containing (where applicable to said product) the software bill of materials, further to a reasoned request from a market surveillance authority provided that it is necessary in order for that authority to be able to check compliance with the essential cybersecurity requirements set out in EU CRA Annex I.
 <<<
 RATIONALE: >>>
 This only is required of products exposed to the EU marketplace.
