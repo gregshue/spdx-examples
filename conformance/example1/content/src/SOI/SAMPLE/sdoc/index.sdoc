@@ -85,7 +85,7 @@ TITLE: Feature List
 
 [TEXT]
 STATEMENT: >>>
-As a Product Lines evolves the sponsors of the Product Line may require it
+As a Product Line evolves the sponsors of the Product Line may require it
 to support a larger solution domain than previously chosen. A best practice
 for Product Line Engineering is to evaluate architectures and designs for
 reusability in reasonably foreseeable scope growth.
