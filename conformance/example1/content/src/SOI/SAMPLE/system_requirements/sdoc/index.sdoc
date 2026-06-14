@@ -26,7 +26,7 @@ From `SEBoK Wiki Glossary - system requirement <https://sebokwiki.org/wiki/Syste
 [TEXT]
 MID: 9876cbae93e44e5aa8501e1990e9c20c
 STATEMENT: >>>
-From `SEBoK Wiki System Requirements Definition - Cateorizing Requirements <https://sebokwiki.org/wiki/System_Requirements_Definition#Categorizing_Requirements>`_ Table 1: Example Types of Requirement Categories. (Derived from the INCOSE Needs and Requirements Manual):
+From `SEBoK Wiki System Requirements Definition - Categorizing Requirements <https://sebokwiki.org/wiki/System_Requirements_Definition#Categorizing_Requirements>`_ Table 1: Example Types of Requirement Categories. (Derived from the INCOSE Needs and Requirements Manual):
 
   **Function/Performance**:
   The primary functions and associated performance that the SoI needs to perform in terms of its intended use.
