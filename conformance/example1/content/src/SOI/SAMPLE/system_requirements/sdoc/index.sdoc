@@ -384,6 +384,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 62a7d20c26e148f0a083f5ddd3e801a3
+UID: SYSREQ-62
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Products Interoperate with Linux Kernel 7.0
+STATEMENT: >>>
+Where a SAMPLE Product is specified to interoperate with Linux,
+
+SAMPLE shall interoperate with Linux Kernel 7.0.
+<<<
+RATIONALE: >>>
+For testing purposes a specific OS release must be specified. In order to achieve the latest security fixes as of the time of requirement creation this requirement specifies the most recent proven-stable release.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
