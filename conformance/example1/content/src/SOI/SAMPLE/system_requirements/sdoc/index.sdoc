@@ -209,6 +209,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 2dc65016276341cc8db08f4d2cffe82c
+UID: SYSREQ-68
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Product 1: Interoperates with iOS
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed to market(s),
+
+SAMPLE shall interoperate with iOS.
+<<<
+RATIONALE: >>>
+TBD
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
