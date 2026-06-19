@@ -365,6 +365,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 285dd041446b4c88b8da11237b815e59
+UID: SYSREQ-61
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Products Interoperate with macOS 26
+STATEMENT: >>>
+Where a SAMPLE Product is specified to interoperate with macOS,
+
+SAMPLE shall interoperate with macOS 26.
+<<<
+RATIONALE: >>>
+For testing purposes a specific OS release must be specified. In order to achieve the latest security fixes as of the time of requirement creation this requirement specifies the most recent release.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
