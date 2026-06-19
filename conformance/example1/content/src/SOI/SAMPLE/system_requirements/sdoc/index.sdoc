@@ -152,6 +152,25 @@ RATIONALE: >>>
 Specified by Product Manager.
 <<<
 
+[REQUIREMENT]
+MID: 35c5faabc9e7405c9d8080d5d26c6c36
+UID: SYSREQ-65
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Product 1: Interoperates with Windows 11
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed to market(s),
+
+SAMPLE shall interoperate with the Windows 11.
+<<<
+RATIONALE: >>>
+Most desired environment.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
