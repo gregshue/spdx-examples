@@ -422,6 +422,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: fd43274cb43a4a31a2fdf5b16962a7b7
+UID: SYSREQ-64
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Products Interoperate with Android 16
+STATEMENT: >>>
+Where a SAMPLE Product is specified to interoperate with Android,
+
+SAMPLE shall interoperate with Android 16.
+<<<
+RATIONALE: >>>
+For testing purposes a specific OS release must be specified. In order to achieve the latest security fixes as of the time of requirement creation this requirement specifies the most recent proven-stable release.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
