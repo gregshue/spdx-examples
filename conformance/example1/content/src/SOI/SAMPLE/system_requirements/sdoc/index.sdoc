@@ -247,6 +247,23 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 86ccf98c7c7b4251933095a7f7b6c1b5
+UID: SYSREQ-70
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Product 1: On-device UI exposes Factory Reset of isolated device
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed to market(s),
+
+When a Factory Reset it requested through the local UI on a device of said SAMPLE Product,
+
+SAMPLE shall Factory Reset said device of said SAMPLE product.
+<<<
+RATIONALE: >>>
+It must always be safe and secure to restore the device to a Factory Reset state. This action must be available even if the other components of said product are not available, the owner is not available, or the installation environment/network is inaccessible.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
