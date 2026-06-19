@@ -37,6 +37,7 @@ def create_config() -> ProjectConfig:
         exclude_doc_paths=[
             "/.*/",
             "/output",
+            "README.md",
         ],
 
         include_source_paths=[
