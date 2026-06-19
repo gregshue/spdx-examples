@@ -171,6 +171,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 1f8f1e08dac743e39458ed8450e1f253
+UID: SYSREQ-66
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Product 1: Interoperates with macOS
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed to market(s),
+
+SAMPLE shall interoperate with macOS.
+<<<
+RATIONALE: >>>
+TBD
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
