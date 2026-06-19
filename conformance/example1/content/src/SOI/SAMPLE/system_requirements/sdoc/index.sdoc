@@ -190,6 +190,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 45a8af744ac447a7a9f9c1f855d6f6cf
+UID: SYSREQ-67
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Product 1: Interoperates with Linux
+STATEMENT: >>>
+Where SAMPLE Product 1 is exposed to market(s),
+
+SAMPLE shall interoperate with Linux.
+<<<
+RATIONALE: >>>
+TBD
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
