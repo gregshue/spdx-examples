@@ -346,6 +346,25 @@ Required by Product Manager.
 MID: 0b869db98dd7484ab74b7ca97674292c
 TITLE: Application Host OS
 
+[REQUIREMENT]
+MID: 0b0e604f4990447bb54b420bd330140f
+UID: SYSREQ-60
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Products Interoperate with Windows 11 26H1
+STATEMENT: >>>
+Where a SAMPLE Product is specified to interoperate with Windows 11,
+
+SAMPLE shall interoperate with Windows 11 release 26H1.
+<<<
+RATIONALE: >>>
+For testing purposes a specific OS release must be specified. In order to achieve the latest security fixes as of the time of requirement creation this requirement specifies the most recent release.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
