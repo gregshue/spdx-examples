@@ -403,6 +403,25 @@ RELATIONS:
   VALUE: STKNEED-14
   ROLE: Refines
 
+[REQUIREMENT]
+MID: 60cfead67e024baea76d34f184f65265
+UID: SYSREQ-63
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Products Interoperate with iOS 26
+STATEMENT: >>>
+Where a SAMPLE Product is specified to interoperate with iOS,
+
+SAMPLE shall interoperate with iOS 26.
+<<<
+RATIONALE: >>>
+For testing purposes a specific OS release must be specified. In order to achieve the latest security fixes as of the time of requirement creation this requirement specifies the most recent proven-stable release.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-14
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[SECTION]]
