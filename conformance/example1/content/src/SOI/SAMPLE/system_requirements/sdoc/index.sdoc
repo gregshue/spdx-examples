@@ -84,9 +84,12 @@ SAMPLE shall expose to market(s) a product with the following features:
 - Product Type: USB Network Interface Dongle
 - Communication Interfaces: USB-C (male), Ethernet 100Base-T (RJ-45 socket)
 - User Interface:
+
   - Status LED(s)
   - physical Command Button(s)
+
 - Product label, showing:
+
   - Manufacturer Name (clear text)
   - Product Model (clear text)
   - Product Serial Number
