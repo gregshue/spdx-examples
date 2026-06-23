@@ -447,6 +447,25 @@ RELATIONS:
 MID: 93534a0d4e884f71bdb35a42f5f33a41
 TITLE: Catastrophic Error Handling
 
+[REQUIREMENT]
+MID: 133f21e2a6ee4489afebae859ae9e62a
+UID: SYSREQ-71
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Devices Auto Reboot Upon Internal Catastrophic Error
+STATEMENT: >>>
+If an internal catastrophic error occurs within a device of a SAMPLE product,
+
+SAMPLE shall automatically reboot said device within 30 seconds of said internal catastrophic error.
+<<<
+RATIONALE: >>>
+The user need is for an automatic recovery. The catastrophic error may be recoverable just with a device reboot.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-6
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
