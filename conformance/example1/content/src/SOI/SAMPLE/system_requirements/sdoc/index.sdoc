@@ -317,6 +317,10 @@ TITLE: Function/Performance Requirements
 MID: 37e5c597ed264cb2947fa545ce55f16a
 TITLE: Fit/Operational Requirements
 
+[[SECTION]]
+MID: 7970ddb7b7d44631bafca642ef3f6440
+TITLE: Environmental
+
 [REQUIREMENT]
 MID: a8144501d3724c6cbc69efe6fdd1d6cc
 UID: SYSREQ-6
@@ -335,6 +339,8 @@ SAMPLE shall operate said SAMPLE Product at full functionality within the follow
 RATIONALE: >>>
 Required by Product Manager.
 <<<
+
+[[/SECTION]]
 
 [[/SECTION]]
 
