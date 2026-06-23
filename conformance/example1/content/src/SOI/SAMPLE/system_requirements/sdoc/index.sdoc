@@ -494,6 +494,23 @@ RELATIONS:
   ROLE: Refines
 
 [REQUIREMENT]
+MID: 30240da9d03c41b9b9add8444395762d
+UID: SYSREQ-74
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI indicates No Valid Application Image Found
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+While said SAMPLE Device has found no valid SAMPLE Device Application Image(s) to load,
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device is has found no valid SAMPLE Device Application Image(s) to load.
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually perceive when a device has found no valid SAMPLE Device Application Image to load. This is an unintended state for the Users to experience, but it may happen and is important for Users to be able to diagnose.
+<<<
+
+[REQUIREMENT]
 MID: efdf9fd706ac43499768b1264e0f5a5d
 UID: SYSREQ-73
 STATUS: Draft
