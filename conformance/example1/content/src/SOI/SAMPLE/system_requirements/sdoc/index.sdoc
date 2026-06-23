@@ -472,6 +472,27 @@ RELATIONS:
 MID: 30dca1ad8c6d463195ac1181efd4c640
 TITLE: Device Boot
 
+[REQUIREMENT]
+MID: 21cb9f3ce495484eb3528d1dba51c26c
+UID: SYSREQ-72
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI indicates powered & held in digital reset state
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+While said SAMPLE Device is powered and has the internal digital elements held in the Reset state,
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device is powered and has the internal digital elements held in the Reset state.
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI.
+<<<
+RELATIONS:
+- TYPE: Parent
+  VALUE: STKNEED-4
+  ROLE: Refines
+
 [[/SECTION]]
 
 [[/SECTION]]
