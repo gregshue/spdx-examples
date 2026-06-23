@@ -493,6 +493,24 @@ RELATIONS:
   VALUE: STKNEED-4
   ROLE: Refines
 
+[REQUIREMENT]
+MID: efdf9fd706ac43499768b1264e0f5a5d
+UID: SYSREQ-73
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI indicates active verifying/loading of Application Image
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+While said SAMPLE Device is actively validating and loading SAMPLE Device Application Image(s),
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device is actively validating and loading SAMPLE Device Application Image(s).
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI.
+Users need to be able to visually confirm the device is busy installing/activating a FW Update, so the installation/activation indication needs to be distinct from the image verification/loading indication.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
