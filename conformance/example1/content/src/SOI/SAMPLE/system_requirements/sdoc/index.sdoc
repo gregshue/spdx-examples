@@ -528,6 +528,23 @@ To support diagnosing devices by owners attempting to diagnose SAMPLE devices, e
 Users need to be able to visually confirm the device is busy installing/activating a FW Update, so the installation/activation indication needs to be distinct from the image verification/loading indication.
 <<<
 
+[REQUIREMENT]
+MID: 30f4df55a6254532b0cd6e81b490e0b5
+UID: SYSREQ-75
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI Indicates active replacement of Application Image(s)
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+While said SAMPLE Device is actively replacing SAMPLE Device Application Image(s),
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device is actively replacing SAMPLE Device Application Image(s).
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is busy replacing a SAMPLE Device Application Image (i.e., installing/activating a FW Update).
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
