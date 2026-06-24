@@ -562,6 +562,23 @@ RATIONALE: >>>
 To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is attempting to run a SAMPLE Device Application Image.
 <<<
 
+[REQUIREMENT]
+MID: 16221f89b61c4c808eb943887b51c0cd
+UID: SYSREQ-77
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI Indicates finished starting Application Image
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+When said SAMPLE Device has finished starting a SAMPLE Device Application Image(s),
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device has finished starting a SAMPLE Device Application Image.
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device has finished starting a SAMPLE Device Application Image.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
