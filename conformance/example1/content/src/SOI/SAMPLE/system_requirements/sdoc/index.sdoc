@@ -545,6 +545,23 @@ RATIONALE: >>>
 To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is busy replacing a SAMPLE Device Application Image (i.e., installing/activating a FW Update).
 <<<
 
+[REQUIREMENT]
+MID: 6142325d6b2f4c1586d1c3e87d36be7c
+UID: SYSREQ-76
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI Indicates entering Application Image
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+When said SAMPLE Device is entering a SAMPLE Device Application Image(s),
+
+SAMPLE shall present a unique visible indication on the local user interface of said SAMPLE device that said SAMPLE Device is entering a SAMPLE Device Application Image.
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is attempting to run a SAMPLE Device Application Image.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
