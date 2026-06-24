@@ -596,6 +596,19 @@ RATIONALE: >>>
 To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device has finished starting a SAMPLE Device Application Image.
 <<<
 
+[REQUIREMENT]
+MID: 03d6c9b2973d448881f7f09a1522a6fd
+UID: SYSREQ-79
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE Device Local UI Indicates when safe to remove power
+STATEMENT: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is prepared for power to be removed.
+<<<
+RATIONALE: >>>
+To support diagnosing devices by owners attempting to diagnose SAMPLE devices, each device needs to give visual diagnostic indications from the (immutable) bootloader through the device-local UI. Users need to be able to visually confirm the device is prepared for power to be removed.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
