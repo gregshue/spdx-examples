@@ -315,6 +315,21 @@ TITLE: Function/Performance Requirements
 MID: 703b413067a54317bb61c193a367bdb9
 TITLE: Updates
 
+[REQUIREMENT]
+MID: 65de61342bba4659ae94df9f71430dfc
+UID: SYSREQ-80
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE exposes service to push FW Updates to device
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+SAMPLE shall present an interface for pushing a specific SAMPLE Device FW Update to a select subset of relevant SAMPLE Devices.
+<<<
+RATIONALE: >>>
+A specific subset of SAMPLE Devices may need to be updated within a narrow window (if not simultaneously). This requires the ability for users to push a specific FW Update to a specific set of devices. In particular, this applies during the SAMPLE Device manufacturing process.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
