@@ -360,6 +360,21 @@ RATIONALE: >>>
 USB has enough communication bandwidth to effectively support FW Updates of the connected device, therefore FW Updates over the USB interface are reasonable and expected.
 <<<
 
+[REQUIREMENT]
+MID: 4b81b10f14bf4de7a6e81572b629d208
+UID: SYSREQ-83
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE exposes option to push FW Updates over Ethernet (802.3).
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device with an Ethernet (802.3) interface,
+
+SAMPLE shall expose an option to push FW Updates over said Ethernet (802.3) interface to said device.
+<<<
+RATIONALE: >>>
+Ethernet (802.3) has enough communication bandwidth to effectively support FW Updates of the connected device, therefore FW Updates over the Ethernet (802.3) interface are reasonable and expected.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
