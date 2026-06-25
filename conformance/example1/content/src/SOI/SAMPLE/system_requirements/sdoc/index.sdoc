@@ -330,6 +330,21 @@ RATIONALE: >>>
 A specific subset of SAMPLE Devices may need to be updated within a narrow window (if not simultaneously). This requires the ability for users to push a specific FW Update to a specific set of devices. In particular, this applies during the SAMPLE Device manufacturing process.
 <<<
 
+[REQUIREMENT]
+MID: 5ef7c36f58234199867e455df1ff4667
+UID: SYSREQ-81
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE exposes service for SAMPLE Devices to pull FW Updates
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device,
+
+SAMPLE shall present an interface to a service for connected SAMPLE Devices to pull FW Updates relevant to said device.
+<<<
+RATIONALE: >>>
+Some SAMPLE Devices may never have access to the public repository of SAMPLE Device FW releases. SAMPLE must provide a local service making SAMPLE FW Updates available to said devices.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
