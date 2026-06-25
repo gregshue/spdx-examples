@@ -345,6 +345,21 @@ RATIONALE: >>>
 Some SAMPLE Devices may never have access to the public repository of SAMPLE Device FW releases. SAMPLE must provide a local service making SAMPLE FW Updates available to said devices.
 <<<
 
+[REQUIREMENT]
+MID: 023810f54ae440008f807c7b4ad2277e
+UID: SYSREQ-82
+STATUS: Draft
+VERIFICATION: Test
+TITLE: SAMPLE exposes option to push FW Updates over USB
+STATEMENT: >>>
+Where a SAMPLE Product exposes to the market(s) a SAMPLE Device with a USB Device interface,
+
+SAMPLE shall expose an option to push FW Updates over said USB Device interface to said device.
+<<<
+RATIONALE: >>>
+USB has enough communication bandwidth to effectively support FW Updates of the connected device, therefore FW Updates over the USB interface are reasonable and expected.
+<<<
+
 [[/SECTION]]
 
 [[/SECTION]]
