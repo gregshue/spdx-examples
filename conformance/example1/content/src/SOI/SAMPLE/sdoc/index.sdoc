@@ -36,6 +36,14 @@ For this Product Line, "commodity devices" matches this definition from
   Thus, most hardware products that have been on the market for five years or more
   are available in commodity versions. ...
 
+USB "Thumb drives" are an example of a consumer electronics device with
+digital elements. USB requires devices to provide descriptor strings for
+manufacturer, model, and serial number. The lowest-cost versions that are
+functionally identical and provide only standard USB interfaces that pull
+in common drivers provided by the OS vendor are essentially commodity
+devices. The business profit model for these devices is to compete on
+low price, low profit margin, and high volume.
+
 SAMPLE is expected to be **reused and extended** by
 interested Open-Source Software Projects and Component Manufacturers for
 developing assets conformant with the EU CRA.
