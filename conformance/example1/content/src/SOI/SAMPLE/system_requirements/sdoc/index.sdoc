@@ -38,8 +38,8 @@ From `SEBoK Wiki System Requirements Definition - Categorizing Requirements <htt
   **Fit/Operational**:
   Requirements dealing with functions that perform secondary or enabling capabilities and interactions
   between the SoI and external systems needed for the system to accomplish its primary functions.
-  This includes functions concerning the ability of the system to interface with, interact with,
-  connect to, operate within, and become an integral part of the macro system it is a part.
+  This includes functions associated with the ability of the system to interface with, interact with,
+  connect to, operate within, and become an integral part of, the macro system.
   Fit includes human system interactions and interfaces as well as both the induced and natural environments
   (conditions of operations, transportation, storage, maintenance).
   For example, needs associated with safety, security, power, cooling, transportation and handling,
