@@ -36,7 +36,7 @@ From `SEBoK Wiki System Requirements Definition - Categorizing Requirements <htt
   All critical and high priority needs would be included in this category.
 
   **Fit/Operational**:
-  Requirements dealing with functions that deal with a secondary or enabling capabilities, functions, and interactions
+  Requirements dealing with functions that perform secondary or enabling capabilities and interactions
   between the SoI and external systems needed for the system to accomplish its primary functions.
   This includes functions concerning the ability of the system to interface with, interact with,
   connect to, operate within, and become an integral part of the macro system it is a part.
